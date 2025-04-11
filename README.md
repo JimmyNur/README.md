@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Jimmy 
 
 🎯 Cloud Security | Incident Response | Threat Intelligence  
-💼 Ex-IKANO Bank | Building my own Cybersecurity Company  
+💼 Cloud Security | IKANO Bank 
 🚀 Mission: Help companies secure their cloud infrastructure & respond to threats fast  
 🛡️ Focus: Azure | SIEM | Pentesting | Real-World Threat Modelling  
 🌍 Based in Norway | Open to Remote High-Impact Security Roles
