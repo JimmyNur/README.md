@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jimmy 
 
-🎯 Cloud Security | Incident Response | Threat Intelligence  
+🎯 Cloud Security | Incident Response | Threat Intelligence | Ethical Hacker
 💼 Cloud Security | IKANO Bank 
 🚀 Mission: Help companies secure their cloud infrastructure & respond to threats fast  
 🛡️ Focus: Azure | SIEM | Pentesting | Real-World Threat Modelling  
@@ -19,10 +19,15 @@
 ---
 
 ## 🎓 Certifications
-- CompTIA A+  
-- Blue Team Level 1  
-- Threat Intelligence Analyst  
-- Splunk Fundamentals  
+
+• Threat Intelligence 101 – arcX
+•	CompTIA A+ – LinkedIn Learning
+•	Security Blue Team – Vulnerability Management
+•	NSM Basic Principles for ICT Security – Norwegian National Security Authority
+•	Splunk Fundamentals
+•	PCI Compliance – Qualys
+•	Generative AI – Google
+
 
 ## Skills
 
