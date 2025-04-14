@@ -20,7 +20,7 @@
 
 ## 🎓 Certifications
 
-• Threat Intelligence 101 – arcX
+• Threat Intelligence 101 – arcX 
 •	CompTIA A+ – LinkedIn Learning
 •	Security Blue Team – Vulnerability Management
 •	NSM Basic Principles for ICT Security – Norwegian National Security Authority
