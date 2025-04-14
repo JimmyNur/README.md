@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jimmy 
 
-🎯 Cloud Security | Incident Response | Threat Intelligence | Ethical Hacker
+🎯 Cloud Security | Azure IR Automation | Real-Time Detection & Response |  GitHub = Proof
 💼 Cloud Security | IKANO Bank 
 🚀 Mission: Help companies secure their cloud infrastructure & respond to threats fast  
 🛡️ Focus: Azure | SIEM | Pentesting | Real-World Threat Modelling  
